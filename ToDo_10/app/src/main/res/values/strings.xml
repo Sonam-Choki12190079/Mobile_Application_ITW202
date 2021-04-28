@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo_09</string>
+    <string name="Enter_first_value">Enter first value</string>
+    <string name="Enter_second_value">Enter second value</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="div">DIV</string>
+</resources>
