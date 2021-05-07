@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo_14ii</string>
+    <string name="hello_world_tap_to_test_alert">Hello World!.Tap to test alert:</string>
+    <string name="alert">Alert</string>
+</resources>
