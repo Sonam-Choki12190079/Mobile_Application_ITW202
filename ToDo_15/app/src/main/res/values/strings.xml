@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODO_15</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clock">You can view the time here!</string>
+    <string name="timer">You can view the timer here!</string>
+    <string name="stopWatch">You can view the stop watch here!</string>
+</resources>
