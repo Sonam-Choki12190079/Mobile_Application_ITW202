@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d70cb1c7-0070-4353-82e0-f89e6df70c25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ToDo_15ii/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_14ii/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_14ii/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_14ii/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_14ii/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_15ii/app/src/main/res/drawable/ic_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_15ii/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_15ii/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_8/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_8/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_8/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_8/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODO_8/app/src/main/java/com/gcit/todo_8/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TODO_8/app/src/main/java/com/gcit/todo_8/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/app/src/androidTest/java/com/gcit/todo_09/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/app/src/androidTest/java/com/gcit/todo_09/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/app/src/main/java/com/gcit/todo_09/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/app/src/main/java/com/gcit/todo_09/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/app/src/test/java/com/gcit/todo_09/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/app/src/test/java/com/gcit/todo_09/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_09/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_09/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_14ii/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_14ii/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_14ii/app/src/main/res/drawable/ic_faviourte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_14iii/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_14iii/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_15ii/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_15ii/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_15ii/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_15ii/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToDo_15ii/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToDo_15ii/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sNn1lHVf6hxGyvUVqRbjHd4fUs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70cb1c7-0070-4353-82e0-f89e6df70c25" name="Default Changelist" comment="" />
+      <created>1620721701963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620721701963</updated>
+    </task>
+    <servers />
+  </component>
+</project>
