@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ScoreButton" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@drawable/button_background</item>
+    </style>
+    <style name="PlusButton" parent="ScoreButton">
+        <item name="android:src">@drawable/ic_plus</item>
+        <item name="android:contentDescription">@string/plus_description</item>
+    </style>
+    <style name="MinusButton" parent="ScoreButton">
+        <item name="android:src">@drawable/ic_sub</item>
+        <item name="android:contentDescription">@string/neg_description</item>
+    </style>
+
+    <style name="textAppearance">
+        <item name="android:layout_width">@dimen/button_size</item>
+        <item name="android:layout_height">@dimen/button_size</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+</resources>
