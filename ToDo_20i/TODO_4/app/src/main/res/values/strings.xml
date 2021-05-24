@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODO_4</string>
+    <string name="editText_main">Enter your text here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="editText_second">Enter Your Text Here</string>
+    <string name="button2">Reply</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
